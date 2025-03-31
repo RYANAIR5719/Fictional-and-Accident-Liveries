@@ -329,7 +329,40 @@
         },
         "3054": {
             "name": "Boeing b737-800",
-            "liveries": [],
+            "liveries": [
+                {
+                    "name": "China Eastern Airlines Flight 5735",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-800/peacock.png"
+                    ],
+                    "credits": "whois无名氏[Sino Wings Group]"
+                },
+                {
+                    "name": "Kenya Airways Flight 507",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Spice9/stuff2/main/Kenya%20Airways%20737-800.png"
+                    ]
+                },
+                {
+                    "name": "Pegasus Airlines Flight 8622",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-800/pegasus.png"
+                    ]
+                },
+                {
+                    "name": "Turkish Airlines Flight 1951",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-800/turkishold.png"
+                    ]
+                },
+                {
+                    "name": "Ukraine International Airlines Flight 752",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b737-800/ukraineinternational.jpg"
+                    ],
+                    "credits": "Ivan Dimitrev"
+                }
+            ],
             "labels": [
                 "Texture"
             ]
